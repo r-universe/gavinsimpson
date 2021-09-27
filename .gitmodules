@@ -1,8 +1,18 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/gavinsimpson/universe
 	shallow = true
 	branch = HEAD
+[submodule "gratia"]
+	path = gratia
+	url = https://github.com/gavinsimpson/gratia
+	shallow = true
+	registered = true
+[submodule "permute"]
+	path = permute
+	url = https://github.com/gavinsimpson/permute
+	shallow = true
+	registered = true
 [submodule "analogue"]
 	path = analogue
 	url = https://github.com/gavinsimpson/analogue
@@ -10,7 +20,12 @@
 	registered = true
 [submodule "analogueExtra"]
 	path = analogueExtra
-	url = https://github.com/gavinsimpson/analogueextra
+	url = https://github.com/gavinsimpson/analogueExtra
+	shallow = true
+	registered = true
+[submodule "ggvegan"]
+	path = ggvegan
+	url = https://github.com/gavinsimpson/ggvegan
 	shallow = true
 	registered = true
 [submodule "cocorresp"]
@@ -23,13 +38,8 @@
 	url = https://github.com/gavinsimpson/coenocliner
 	shallow = true
 	registered = true
-[submodule "gratia"]
-	path = gratia
-	url = https://github.com/gavinsimpson/gratia
-	shallow = true
-	registered = true
-[submodule "permute"]
-	path = permute
-	url = https://github.com/gavinsimpson/permute
+[submodule "temporalEF"]
+	path = temporalEF
+	url = https://github.com/gavinsimpson/temporalEF
 	shallow = true
 	registered = true

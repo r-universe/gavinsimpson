@@ -1,11 +1,22 @@
 [
   {
+    "package": "gratia",
+    "oncran": true
+  },
+  {
+    "package": "permute",
+    "oncran": true
+  },
+  {
     "package": "analogue",
     "oncran": true
   },
   {
     "package": "analogueExtra",
     "oncran": true
+  },
+  {
+    "package": "ggvegan"
   },
   {
     "package": "cocorresp",
@@ -16,11 +27,6 @@
     "oncran": true
   },
   {
-    "package": "gratia",
-    "oncran": true
-  },
-  {
-    "package": "permute",
-    "oncran": true
+    "package": "temporalEF"
   }
 ]
