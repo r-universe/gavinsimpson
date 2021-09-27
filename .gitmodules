@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "analogue"]
+	path = analogue
+	url = https://github.com/gavinsimpson/analogue
+	shallow = true
+	registered = true
+[submodule "analogueExtra"]
+	path = analogueExtra
+	url = https://github.com/gavinsimpson/analogueextra
+	shallow = true
+	registered = true
+[submodule "cocorresp"]
+	path = cocorresp
+	url = https://github.com/gavinsimpson/cocorresp
+	shallow = true
+	registered = true
+[submodule "coenocliner"]
+	path = coenocliner
+	url = https://github.com/gavinsimpson/coenocliner
+	shallow = true
+	registered = true
+[submodule "gratia"]
+	path = gratia
+	url = https://github.com/gavinsimpson/gratia
+	shallow = true
+	registered = true
+[submodule "permute"]
+	path = permute
+	url = https://github.com/gavinsimpson/permute
+	shallow = true
+	registered = true
