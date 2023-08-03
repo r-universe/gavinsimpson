@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/gavinsimpson/universe
 	branch = HEAD
-[submodule "gratia"]
-	path = gratia
-	url = https://github.com/gavinsimpson/gratia
-[submodule "permute"]
-	path = permute
-	url = https://github.com/gavinsimpson/permute
 [submodule "analogue"]
 	path = analogue
 	url = https://github.com/gavinsimpson/analogue
 [submodule "analogueExtra"]
 	path = analogueExtra
 	url = https://github.com/gavinsimpson/analogueExtra
-[submodule "ggvegan"]
-	path = ggvegan
-	url = https://github.com/gavinsimpson/ggvegan
 [submodule "cocorresp"]
 	path = cocorresp
 	url = https://github.com/gavinsimpson/cocorresp
 [submodule "coenocliner"]
 	path = coenocliner
 	url = https://github.com/gavinsimpson/coenocliner
+[submodule "ggvegan"]
+	path = ggvegan
+	url = https://github.com/gavinsimpson/ggvegan
+[submodule "gratia"]
+	path = gratia
+	url = https://github.com/gavinsimpson/gratia
+[submodule "permute"]
+	path = permute
+	url = https://github.com/gavinsimpson/permute
 [submodule "temporalEF"]
 	path = temporalEF
 	url = https://github.com/gavinsimpson/temporalEF
