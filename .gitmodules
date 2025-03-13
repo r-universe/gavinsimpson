@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/gavinsimpson/gavinsimpson.r-universe.dev
 	branch = HEAD
+[submodule "MRFtools"]
+	path = MRFtools
+	url = https://github.com/gavinsimpson/MRFtools
 [submodule "analogue"]
 	path = analogue
 	url = https://github.com/gavinsimpson/analogue
